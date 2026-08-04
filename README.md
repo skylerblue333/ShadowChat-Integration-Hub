@@ -46,3 +46,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Skyler Blue Spillers - skyler@example.com
 
 Project Link: [https://github.com/skylerblue333/ShadowChat-Integration-Hub](https://github.com/skylerblue333/ShadowChat-Integration-Hub)
+
+---
+🌐 **Official Website:** [skycoin44.token](https://skycoin44.token)
